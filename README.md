@@ -1,4 +1,4 @@
-# How to get the node in WPF TreeView
+# How to Get the Node in WPF TreeView?
 
 This sample illustrates how to get the node in [WPF TreeView](https://www.syncfusion.com/wpf-controls/treeview) (SfTreeView).
 
